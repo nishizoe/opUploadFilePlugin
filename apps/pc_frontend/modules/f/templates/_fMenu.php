@@ -16,7 +16,13 @@
 }
 
 .file-item {
-  width: 240px;
+  width: 270px;
+  overflow: hidden;
+}
+
+.file-item a {
+  margin: 1px;
+  overflow: hidden;
 }
 -->
 </style>
